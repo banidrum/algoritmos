@@ -1,0 +1,3 @@
+# algoritmos
+
+Exercícios de programação.
